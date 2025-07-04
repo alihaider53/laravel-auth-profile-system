@@ -91,7 +91,7 @@ Note: Only Admin can delete a user.
 
 
 🧑‍💻 Author
-Developed by Ali Haider — <a href="https://www.linkedin.com/in/ali-haider-62073216b/">LinkedIn</a> | <a href="https://github.com/alihaider53">GitHub</a>
+Developed by Ali Haider
 
 
 ## License
